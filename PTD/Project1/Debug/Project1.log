@@ -1,0 +1,128 @@
+﻿  TowerCharizard.cpp
+  main.cpp
+C:\Users\romth\source\repos\Project1\Project1\EnemyPikachu.h(23,29): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\romth\source\repos\Project1\Project1\main.cpp(29,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\romth\source\repos\Project1\Project1\main.cpp(227,92): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+C:\Users\romth\source\repos\Project1\Project1\main.cpp(227,92): warning C4244:         with
+C:\Users\romth\source\repos\Project1\Project1\main.cpp(227,92): warning C4244:         [
+C:\Users\romth\source\repos\Project1\Project1\main.cpp(227,92): warning C4244:             T=int
+C:\Users\romth\source\repos\Project1\Project1\main.cpp(227,92): warning C4244:         ]
+C:\Users\romth\source\repos\Project1\Project1\main.cpp(227,92): warning C4244:         and
+C:\Users\romth\source\repos\Project1\Project1\main.cpp(227,92): warning C4244:         [
+C:\Users\romth\source\repos\Project1\Project1\main.cpp(227,92): warning C4244:             T=float
+C:\Users\romth\source\repos\Project1\Project1\main.cpp(227,92): warning C4244:         ]
+C:\Users\romth\source\repos\Project1\Project1\main.cpp(227,68): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+C:\Users\romth\source\repos\Project1\Project1\main.cpp(227,68): warning C4244:         with
+C:\Users\romth\source\repos\Project1\Project1\main.cpp(227,68): warning C4244:         [
+C:\Users\romth\source\repos\Project1\Project1\main.cpp(227,68): warning C4244:             T=int
+C:\Users\romth\source\repos\Project1\Project1\main.cpp(227,68): warning C4244:         ]
+C:\Users\romth\source\repos\Project1\Project1\main.cpp(227,68): warning C4244:         and
+C:\Users\romth\source\repos\Project1\Project1\main.cpp(227,68): warning C4244:         [
+C:\Users\romth\source\repos\Project1\Project1\main.cpp(227,68): warning C4244:             T=float
+C:\Users\romth\source\repos\Project1\Project1\main.cpp(227,68): warning C4244:         ]
+C:\Users\romth\source\repos\Project1\Project1\main.cpp(228,94): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+C:\Users\romth\source\repos\Project1\Project1\main.cpp(228,94): warning C4244:         with
+C:\Users\romth\source\repos\Project1\Project1\main.cpp(228,94): warning C4244:         [
+C:\Users\romth\source\repos\Project1\Project1\main.cpp(228,94): warning C4244:             T=int
+C:\Users\romth\source\repos\Project1\Project1\main.cpp(228,94): warning C4244:         ]
+C:\Users\romth\source\repos\Project1\Project1\main.cpp(228,94): warning C4244:         and
+C:\Users\romth\source\repos\Project1\Project1\main.cpp(228,94): warning C4244:         [
+C:\Users\romth\source\repos\Project1\Project1\main.cpp(228,94): warning C4244:             T=float
+C:\Users\romth\source\repos\Project1\Project1\main.cpp(228,94): warning C4244:         ]
+C:\Users\romth\source\repos\Project1\Project1\main.cpp(228,70): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+C:\Users\romth\source\repos\Project1\Project1\main.cpp(228,70): warning C4244:         with
+C:\Users\romth\source\repos\Project1\Project1\main.cpp(228,70): warning C4244:         [
+C:\Users\romth\source\repos\Project1\Project1\main.cpp(228,70): warning C4244:             T=int
+C:\Users\romth\source\repos\Project1\Project1\main.cpp(228,70): warning C4244:         ]
+C:\Users\romth\source\repos\Project1\Project1\main.cpp(228,70): warning C4244:         and
+C:\Users\romth\source\repos\Project1\Project1\main.cpp(228,70): warning C4244:         [
+C:\Users\romth\source\repos\Project1\Project1\main.cpp(228,70): warning C4244:             T=float
+C:\Users\romth\source\repos\Project1\Project1\main.cpp(228,70): warning C4244:         ]
+C:\Users\romth\source\repos\Project1\Project1\main.cpp(229,90): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+C:\Users\romth\source\repos\Project1\Project1\main.cpp(229,90): warning C4244:         with
+C:\Users\romth\source\repos\Project1\Project1\main.cpp(229,90): warning C4244:         [
+C:\Users\romth\source\repos\Project1\Project1\main.cpp(229,90): warning C4244:             T=int
+C:\Users\romth\source\repos\Project1\Project1\main.cpp(229,90): warning C4244:         ]
+C:\Users\romth\source\repos\Project1\Project1\main.cpp(229,90): warning C4244:         and
+C:\Users\romth\source\repos\Project1\Project1\main.cpp(229,90): warning C4244:         [
+C:\Users\romth\source\repos\Project1\Project1\main.cpp(229,90): warning C4244:             T=float
+C:\Users\romth\source\repos\Project1\Project1\main.cpp(229,90): warning C4244:         ]
+C:\Users\romth\source\repos\Project1\Project1\main.cpp(229,66): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+C:\Users\romth\source\repos\Project1\Project1\main.cpp(229,66): warning C4244:         with
+C:\Users\romth\source\repos\Project1\Project1\main.cpp(229,66): warning C4244:         [
+C:\Users\romth\source\repos\Project1\Project1\main.cpp(229,66): warning C4244:             T=int
+C:\Users\romth\source\repos\Project1\Project1\main.cpp(229,66): warning C4244:         ]
+C:\Users\romth\source\repos\Project1\Project1\main.cpp(229,66): warning C4244:         and
+C:\Users\romth\source\repos\Project1\Project1\main.cpp(229,66): warning C4244:         [
+C:\Users\romth\source\repos\Project1\Project1\main.cpp(229,66): warning C4244:             T=float
+C:\Users\romth\source\repos\Project1\Project1\main.cpp(229,66): warning C4244:         ]
+C:\Users\romth\source\repos\Project1\Project1\main.cpp(242,22): warning C4244: 'argument': conversion from 'float' to 'size_t', possible loss of data
+C:\Users\romth\source\repos\Project1\Project1\main.cpp(351,87): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+C:\Users\romth\source\repos\Project1\Project1\main.cpp(351,87): warning C4244:         with
+C:\Users\romth\source\repos\Project1\Project1\main.cpp(351,87): warning C4244:         [
+C:\Users\romth\source\repos\Project1\Project1\main.cpp(351,87): warning C4244:             T=int
+C:\Users\romth\source\repos\Project1\Project1\main.cpp(351,87): warning C4244:         ]
+C:\Users\romth\source\repos\Project1\Project1\main.cpp(351,87): warning C4244:         and
+C:\Users\romth\source\repos\Project1\Project1\main.cpp(351,87): warning C4244:         [
+C:\Users\romth\source\repos\Project1\Project1\main.cpp(351,87): warning C4244:             T=float
+C:\Users\romth\source\repos\Project1\Project1\main.cpp(351,87): warning C4244:         ]
+C:\Users\romth\source\repos\Project1\Project1\main.cpp(351,57): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+C:\Users\romth\source\repos\Project1\Project1\main.cpp(351,57): warning C4244:         with
+C:\Users\romth\source\repos\Project1\Project1\main.cpp(351,57): warning C4244:         [
+C:\Users\romth\source\repos\Project1\Project1\main.cpp(351,57): warning C4244:             T=int
+C:\Users\romth\source\repos\Project1\Project1\main.cpp(351,57): warning C4244:         ]
+C:\Users\romth\source\repos\Project1\Project1\main.cpp(351,57): warning C4244:         and
+C:\Users\romth\source\repos\Project1\Project1\main.cpp(351,57): warning C4244:         [
+C:\Users\romth\source\repos\Project1\Project1\main.cpp(351,57): warning C4244:             T=float
+C:\Users\romth\source\repos\Project1\Project1\main.cpp(351,57): warning C4244:         ]
+C:\Users\romth\source\repos\Project1\Project1\main.cpp(534,28): warning C4018: '<': signed/unsigned mismatch
+C:\Users\romth\source\repos\Project1\Project1\main.cpp(623,53): warning C4244: '=': conversion from 'sf::Int32' to 'float', possible loss of data
+C:\Users\romth\source\repos\Project1\Project1\main.cpp(631,53): warning C4244: '=': conversion from 'sf::Int32' to 'float', possible loss of data
+C:\Users\romth\source\repos\Project1\Project1\main.cpp(685,68): warning C4244: '=': conversion from 'sf::Int32' to 'float', possible loss of data
+C:\Users\romth\source\repos\Project1\Project1\main.cpp(722,56): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\romth\source\repos\Project1\Project1\main.cpp(733,56): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\romth\source\repos\Project1\Project1\main.cpp(744,56): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\romth\source\repos\Project1\Project1\main.cpp(755,56): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\romth\source\repos\Project1\Project1\main.cpp(766,56): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\romth\source\repos\Project1\Project1\main.cpp(777,56): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\romth\source\repos\Project1\Project1\main.cpp(788,56): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\romth\source\repos\Project1\Project1\main.cpp(799,56): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\romth\source\repos\Project1\Project1\main.cpp(837,69): warning C4244: '=': conversion from 'sf::Int32' to 'float', possible loss of data
+C:\Users\romth\source\repos\Project1\Project1\main.cpp(875,56): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\romth\source\repos\Project1\Project1\main.cpp(886,56): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\romth\source\repos\Project1\Project1\main.cpp(897,56): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\romth\source\repos\Project1\Project1\main.cpp(908,56): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\romth\source\repos\Project1\Project1\main.cpp(919,56): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\romth\source\repos\Project1\Project1\main.cpp(930,56): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\romth\source\repos\Project1\Project1\main.cpp(941,56): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\romth\source\repos\Project1\Project1\main.cpp(952,56): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\romth\source\repos\Project1\Project1\main.cpp(990,70): warning C4244: '=': conversion from 'sf::Int32' to 'float', possible loss of data
+C:\Users\romth\source\repos\Project1\Project1\main.cpp(1028,56): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\romth\source\repos\Project1\Project1\main.cpp(1039,56): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\romth\source\repos\Project1\Project1\main.cpp(1050,56): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\romth\source\repos\Project1\Project1\main.cpp(1061,56): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\romth\source\repos\Project1\Project1\main.cpp(1072,56): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\romth\source\repos\Project1\Project1\main.cpp(1083,56): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\romth\source\repos\Project1\Project1\main.cpp(1094,56): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\romth\source\repos\Project1\Project1\main.cpp(1105,56): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\romth\source\repos\Project1\Project1\main.cpp(1128,21): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\romth\source\repos\Project1\Project1\main.cpp(1129,21): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\romth\source\repos\Project1\Project1\main.cpp(1147,22): warning C4553: '==': result of expression not used; did you intend '='?
+C:\Users\romth\source\repos\Project1\Project1\main.cpp(1160,24): warning C4553: '==': result of expression not used; did you intend '='?
+C:\Users\romth\source\repos\Project1\Project1\main.cpp(1174,23): warning C4553: '==': result of expression not used; did you intend '='?
+C:\Users\romth\source\repos\Project1\Project1\main.cpp(1213,17): warning C4553: '==': result of expression not used; did you intend '='?
+C:\Users\romth\source\repos\Project1\Project1\main.cpp(1242,19): warning C4553: '==': result of expression not used; did you intend '='?
+C:\Users\romth\source\repos\Project1\Project1\main.cpp(1271,18): warning C4553: '==': result of expression not used; did you intend '='?
+C:\Users\romth\source\repos\Project1\Project1\main.cpp(1405,34): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\romth\source\repos\Project1\Project1\main.cpp(1408,28): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\romth\source\repos\Project1\Project1\main.cpp(1410,35): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\romth\source\repos\Project1\Project1\main.cpp(1413,29): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\romth\source\repos\Project1\Project1\main.cpp(1416,33): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\romth\source\repos\Project1\Project1\main.cpp(1419,27): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\romth\source\repos\Project1\Project1\main.cpp(1423,32): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\romth\source\repos\Project1\Project1\main.cpp(1427,34): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\romth\source\repos\Project1\Project1\main.cpp(1432,33): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\romth\source\repos\Project1\Project1\main.cpp(1437,32): warning C4305: '+=': truncation from 'double' to 'float'
+  Generating Code...
+C:\Users\romth\source\repos\Project1\Project1\main.cpp(1443,33): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  Project1.vcxproj -> C:\Users\romth\source\repos\Project1\Debug\Project1.exe
